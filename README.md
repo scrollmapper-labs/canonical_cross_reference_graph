@@ -1,9 +1,8 @@
-# canonical_cross_reference_graph
+# Canonical Cross-Reference Graph
+
 A general-purpose graph dataset and visualization project for exploring canonical Bible cross-references as a relational network.
 
 ----
-
-# Canonical Cross-Reference Graph
 
 A Gephi-centered graph project for visualizing biblical cross-reference data.
 
