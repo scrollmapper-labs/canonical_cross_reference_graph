@@ -8,6 +8,10 @@ A Gephi-centered graph project for visualizing biblical cross-reference data.
 
 This repository currently contains a master `.gephi` file built from the OpenBible.info cross-reference dataset. The goal is to provide a workable network graph that can be opened, explored, filtered, styled, and exported through Gephi.
 
+Main file:
+
+[cross_references_canonical.gephi](gephi/cross_references_canonical.gephi)
+
 ## Current Focus
 
 * maintain a master Gephi project file
